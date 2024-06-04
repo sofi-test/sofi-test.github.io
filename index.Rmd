@@ -1,0 +1,34 @@
+---
+output: 
+  html_document:
+    css: style.css
+    highlight: textmate
+---
+
+Hola Mundo! \
+Esta es la página web de pruebas de la Sofi :)
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(ggplot2)
+library(gganimate)
+library(av)
+library(gifski)
+library(gapminder)
+library(dplyr)
+library(ggdark)
+
+p <- ggplot(data=gapminder %>% filter(country!="Kuwait"), aes(x=gdpPercap, y=lifeExp, colour=continent, size=pop)) +
+  geom_point(alpha=0.7) + 
+  dark_mode() +
+  scale_y_continuous(breaks = seq(0, 90, by=5)) +
+  scale_x_continuous(breaks = seq(0, 50000, by=5000)) +
+  labs(x="PIB per Cápita", 
+       y="Esperanza de Vida",
+       caption="Datos de Gapminder") +
+  guides(size=FALSE, colour=guide_legend("Continent"))
+
+p + transition_time(year) + 
+  labs(subtitle = "Año: {frame_time}") + 
+  view_follow(fixed_y = TRUE)
+```
+

@@ -1,0 +1,15 @@
+name: "Página web"
+output_dir: "."
+navbar:
+  title: "Página web"
+  left:
+    - text: "Inicio"
+      href: index.html
+    - text: "Sobre mi"
+      href: about.html
+
+output:
+  html_document:
+    css: style.css
+    theme: cosmo
+    highlight: textmate

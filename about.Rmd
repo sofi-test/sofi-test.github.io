@@ -1,0 +1,10 @@
+---
+output: 
+  html_document:
+    css: style.css
+    highlight: textmate
+---
+
+*En cada una de las pestañas puedes agregar el contenido que quieras.* \
+*Una presentación de ti, links/papers de interés, tus trabajos, datos de contacto, etc.* \
+Las posibilidades son infinitas :D
