@@ -10,3 +10,17 @@ output:
 *Una presentación de ti, links/papers de interés, tus trabajos, datos de contacto, etc.* \
 
 Las posibilidades son infinitas :D \
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(vembedr)
+
+```
+
+
+### Gita Gopinath - Recent Global Economic Challenges
+
+```{r echo=FALSE}
+embed_youtube("kgwoenEnQuc")
+```
+
