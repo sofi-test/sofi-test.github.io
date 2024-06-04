@@ -1,0 +1,45 @@
+---
+output: 
+  html_document:
+    css: style.css
+    highlight: textmate
+---
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(vembedr)
+
+```
+
+Sitios recomendados de la Sofi
+
+# Links de interés
+ 
+[Banco Central de Chile](https://www.bcentral.cl/web/banco-central)
+ 
+[Ministerio de Economía Fomento y Turismo](https://www.economia.gob.cl/)
+
+[Valentina Paredes](https://scholar.google.com.br/citations?hl=en&user=_QfWQl4AAAAJ&view_op=list_works&sortby=pubdate)
+ 
+[Damian Clarke](https://www.damianclarke.net/)
+ 
+[Rómulo Chumacero](http://rchumace.econ.uchile.cl/) 
+
+# Econometría 
+
+[Joshua Angrist - Marginal Revolution University](https://www.youtube.com/playlist?list=PL-uRhZ_p-BM5ovNRg-G6hDib27OCvcyW8)
+
+[Rómulo Chumacero](https://www.youtube.com/playlist?list=PL09ENlvHqN-8jhVrnsgrfi_fyf4RygjgA)
+
+# Microeconomía
+
+[Economía y Desarrollo](https://www.youtube.com/playlist?list=PLa1CmC-O00ybeV_NBTPBuE63sTtqkpjaA)
+
+[Marginal Revolution University](https://www.youtube.com/playlist?list=PL-uRhZ_p-BM4XnKSe3BJa23-XKJs_k4KY)
+
+[Fenvid](https://www.youtube.com/playlist?list=PLuWahU49hzjdj1zWjScl_jVR_TDwgOhqt)
+
+# Stata
+
+[Graph Gallery](https://www.stata.com/support/faqs/graphics/gph/stata-graphs/)
+
+[Cheatsheets](https://www.stata.com/bookstore/statacheatsheets.pdf)

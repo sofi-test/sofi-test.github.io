@@ -7,6 +7,10 @@ navbar:
       href: index.html
     - text: "Sobre mi"
       href: about.html
+    - text: "Trabajos"
+      href: trabajos.html
+    - text: "Recomendados"
+      href: recomendados.html
 
 output:
   html_document:

@@ -1,0 +1,17 @@
+---
+output: 
+  html_document:
+    css: style.css
+    highlight: textmate
+---
+
+# Trabajos Universitarios
+
+- [Microeconometría](C:/Users/agust/Escritorio/Regalo_Sofi/sofi-test.github.io/Archivos/Presentacion_ArredondoSofia.pdf) - [Link del Paper](https://sci-hub.se/https://doi.org/10.1080/07350015.2019.1639407)
+
+
+# Apuntes
+
+
+# Ayudantías y Evaluaciones
+
