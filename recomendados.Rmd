@@ -10,8 +10,6 @@ library(vembedr)
 
 ```
 
-Sitios recomendados de la Sofi
-
 # Links de interés
  
 [Banco Central de Chile](https://www.bcentral.cl/web/banco-central)
