@@ -10,7 +10,7 @@ library(vembedr)
 
 ```
 
-# Links de interés
+# Links of interest
  
 [Banco Central de Chile](https://www.bcentral.cl/web/banco-central)
  
@@ -22,13 +22,13 @@ library(vembedr)
  
 [Rómulo Chumacero](http://rchumace.econ.uchile.cl/) 
 
-# Econometría 
+# Econometrícs
 
 [Joshua Angrist - Marginal Revolution University](https://www.youtube.com/playlist?list=PL-uRhZ_p-BM5ovNRg-G6hDib27OCvcyW8)
 
 [Rómulo Chumacero](https://www.youtube.com/playlist?list=PL09ENlvHqN-8jhVrnsgrfi_fyf4RygjgA)
 
-# Microeconomía
+# Microeconomícs
 
 [Economía y Desarrollo](https://www.youtube.com/playlist?list=PLa1CmC-O00ybeV_NBTPBuE63sTtqkpjaA)
 

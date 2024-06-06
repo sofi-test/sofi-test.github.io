@@ -1,16 +1,16 @@
-name: "Página web"
+name: "Website"
 output_dir: "."
 navbar:
-  title: "Página web"
+  title: "Website"
   left:
-    - text: "Inicio"
+    - text: "Home"
       href: index.html
-    - text: "Sobre mi"
+    - text: "About me"
       href: about.html
-    - text: "Trabajos"
-      href: trabajos.html
-    - text: "Recomendados"
-      href: recomendados.html
+    - text: "Works"
+      href: works.html
+    - text: "Recommended"
+      href: recommended.html
 
 output:
   html_document:

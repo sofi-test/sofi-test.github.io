@@ -1,0 +1,22 @@
+---
+output: 
+  html_document:
+    css: style.css
+    highlight: textmate
+---
+
+# College works
+
+- [Microeconometrics, spring 2021](Archivos/Presentacion_ArredondoSofia.pdf) - [Paper link](https://sci-hub.se/https://doi.org/10.1080/07350015.2019.1639407)
+
+\
+
+# Notes
+\
+
+
+# Assistantships and evaluations
+\
+
+
+# Research
