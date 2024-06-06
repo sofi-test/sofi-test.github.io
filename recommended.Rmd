@@ -24,7 +24,7 @@ library(vembedr)
 
 \
 
-# Econometrícs
+# Econometrics
 
 [Joshua Angrist - Marginal Revolution University](https://www.youtube.com/playlist?list=PL-uRhZ_p-BM5ovNRg-G6hDib27OCvcyW8)
 
@@ -33,7 +33,7 @@ library(vembedr)
 
 \
 
-# Microeconomícs
+# Microeconomics
 
 [Economía y Desarrollo](https://www.youtube.com/playlist?list=PLa1CmC-O00ybeV_NBTPBuE63sTtqkpjaA)
 

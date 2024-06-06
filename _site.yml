@@ -11,7 +11,7 @@ navbar:
       href: works.html
     - text: "Forms"
       menu:
-      - text: Econometrícs
+      - text: Econometrics
         href: econometrics.html
       - text: Microeconomics
         href: microeconomics.html
