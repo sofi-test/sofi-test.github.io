@@ -9,6 +9,12 @@ navbar:
       href: about.html
     - text: "Works"
       href: works.html
+    - text: "Forms"
+      menu:
+      - text: Econometrícs
+        href: econometrics.html
+      - text: Microeconomics
+        href: microeconomics.html
     - text: "Recommended"
       href: recommended.html
 
@@ -17,3 +23,5 @@ output:
     css: style.css
     theme: cosmo
     highlight: textmate
+  
+  

@@ -22,11 +22,16 @@ library(vembedr)
  
 [Rómulo Chumacero](http://rchumace.econ.uchile.cl/) 
 
+\
+
 # Econometrícs
 
 [Joshua Angrist - Marginal Revolution University](https://www.youtube.com/playlist?list=PL-uRhZ_p-BM5ovNRg-G6hDib27OCvcyW8)
 
 [Rómulo Chumacero](https://www.youtube.com/playlist?list=PL09ENlvHqN-8jhVrnsgrfi_fyf4RygjgA)
+
+
+\
 
 # Microeconomícs
 
@@ -35,6 +40,9 @@ library(vembedr)
 [Marginal Revolution University](https://www.youtube.com/playlist?list=PL-uRhZ_p-BM4XnKSe3BJa23-XKJs_k4KY)
 
 [Fenvid](https://www.youtube.com/playlist?list=PLuWahU49hzjdj1zWjScl_jVR_TDwgOhqt)
+
+
+\
 
 # Stata
 
